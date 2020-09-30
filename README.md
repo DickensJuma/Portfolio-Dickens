@@ -1,8 +1,8 @@
-# [Dickens - Portfolio](https://startbootstrap.com/themes/stylish-portfolio/)
+# [Dickens - Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
 
 ## Preview
 
-[![Stylish Portfolio Preview](./img/portfolio-screenshot.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](./img/portfolio-screenshot.png)](https://dickensjuma.github.io/Portfolio-Dickens/)
 
 **[View Live Preview](https://dickensjuma.github.io/Portfolio-Dickens/)**
 
