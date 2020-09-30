@@ -479,7 +479,7 @@ a:active, a:focus, a:hover {
 }
 .bio-image img{
     border-radius:50%;
-    height: 60vh;
+    width: 100%;
 }
 .bio-content{
     text-align:left;
@@ -496,7 +496,7 @@ a:active, a:focus, a:hover {
 	 background-color: rgba(255, 0, 60, 0.05);
 } */
  .social-container {
-	 width: 400px;
+	 width: 100%;
 	 margin: 2vh auto;
 	 text-align: center;
 }
