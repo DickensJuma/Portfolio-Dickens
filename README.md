@@ -4,7 +4,7 @@
 
 [![Stylish Portfolio Preview](./img/portfolio-screenshot.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
 
-**[View Live Preview]('./img/portfolio-screenshot.png')**
+**[View Live Preview](https://dickensjuma.github.io/Portfolio-Dickens/)**
 
 ## Status
 
