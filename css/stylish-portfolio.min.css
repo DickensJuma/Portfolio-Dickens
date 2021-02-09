@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Stylish Portfolio v5.0.8 (https://startbootstrap.com/themes/stylish-portfolio)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/master/LICENSE)
- */
+
  @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 body, html {
     width: 100%;
@@ -543,7 +539,8 @@ a:active, a:focus, a:hover {
 	 -webkit-transform: scale(2.2);
 	 color: #ff003c;
 	 background: -webkit-linear-gradient(45deg, #ff003c, #c648c8);
-	 -webkit-background-clip: text;
+     -webkit-background-clip: text;
+     background-clip: text;
 	 -webkit-text-fill-color: transparent;
 	 transition: all 265ms ease-in;
 }
