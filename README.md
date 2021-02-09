@@ -1,22 +1,35 @@
-# [Dickens - Portfolio](https://dickensjuma.github.io/Portfolio-Dickens/)
+# Morphing Background Shapes
 
-## Preview
+A decorative website background effect where SVG shapes morph and transform on scroll.
 
-[![Stylish Portfolio Preview](./img/portfolio-screenshot.png)](https://dickensjuma.github.io/Portfolio-Dickens/)
+![Morphing Background Shapes](https://tympanus.net/codrops/wp-content/uploads/2017/05/MorphingBackgroundShapes_Featured.jpg)
 
-**[View Live Preview](https://dickensjuma.github.io/Portfolio-Dickens/)**
+[Article on Codrops](https://tympanus.net/codrops/?p=31190)
 
-## Status
+[Demo](https://tympanus.net/Development/MorphingBackgroundShapes/)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio?type=dev)
+This demo is kindly sponsored by [HelloSign API](http://synd.co/2pHxJny).
+
+## Credits
+
+- [anime.js](http://anime-js.com/) by Julian Garnier
+- [scrollMonitor.js](https://github.com/stutrek/scrollMonitor) by Stu Kabakoff
+- [imagesLoaded](http://imagesloaded.desandro.com/) by David DeSandro
+- Images copyright by [Jim Lepage](http://jimlepage.com/). Purchase here: [Abstract Paint Remix, Vol. 1](http://jimlepage.com/shop/abstract-paint-remix-vol-1)
+- Fonts: [Nexa Bold](http://www.fontfabric.com/nexa-free-font/) by Fontfabric and [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson.
+- SVG shapes made with [Inkscape](https://inkscape.org/en/)
+
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+
+## Misc
+
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+
+
+[© Codrops 2017](http://www.codrops.com)
 
 
 
 
-## Copyright and License
 
-Copyright 2019-2020 Dickens Juma LLC. Code released under the [MIT]
