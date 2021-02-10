@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview](./img/screenshot.png)](https://dickensjuma.github.io/Portfolio-Dickens/)
+[![Stylish Portfolio Preview](./img/screenshot.jpg)](https://dickensjuma.github.io/Portfolio-Dickens/)
 
 **[View Live Preview](https://dickensjuma.github.io/Portfolio-Dickens/)**
 
