@@ -15,6 +15,9 @@
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio?type=dev)
 
 
+[![Stylish Portfolio Preview](./img/favicon.ico)](https://dickensjuma.github.io/Portfolio-Dickens/)
+
+
 
 
 ## Copyright and License
