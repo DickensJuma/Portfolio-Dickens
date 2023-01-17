@@ -560,6 +560,9 @@ input,textarea,select{
   border-radius: 50%;
 }
 .about .about-content .timeline .timeline-title{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
   font-weight: 700;
   font-size: 18px;
   margin-bottom: 15px;
