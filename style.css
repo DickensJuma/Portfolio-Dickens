@@ -953,14 +953,34 @@ select {
   font-size: 16px;
   line-height: 25px;
   color: #504e70;
-  margin-bottom: 30px;
+  margin-bottom: 18px;
 }
 .blog-card-item {
   flex: 0 0 50%;
   max-width: 50%;
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 10px;
 }
 .blog-card-info {
-  padding: 30px 15px;
+  padding: 26px 22px;
+}
+#blog .project-item-inner {
+  height: 100%;
+}
+#blog .about-content > .row + .row {
+  margin-top: 6px;
+}
+#blog .blog-card-item .project-title {
+  margin-bottom: 14px;
+  line-height: 1.35;
+}
+#blog .blog-card-item .project-description {
+  margin-bottom: 20px;
+  line-height: 1.7;
+}
+#blog .blog-card-item .buttons {
+  margin-top: 4px;
 }
 .impact-intro-text {
   font-size: 16px;
@@ -1179,6 +1199,15 @@ body.dark #impact .about-content {
     flex: 0 0 100%;
     max-width: 100%;
     padding-bottom: 30px;
+  }
+  .blog-card-item {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 16px;
+  }
+  .blog-card-info {
+    padding: 22px 18px;
   }
 }
 @media (max-width: 550px) {

@@ -6,6 +6,9 @@ This site belongs to Dickens Alphonce Juma, a Tech Lead and Senior Backend Engin
 - Portfolio: https://dickensjuma.github.io/Portfolio-Dickens/
 - Resume (Designed): https://dickensjuma.github.io/Portfolio-Dickens/resume.html
 - Resume (ATS): https://dickensjuma.github.io/Portfolio-Dickens/resume-ats.html
+- Medium Profile: https://medium.com/@dickensjuma13
+- Featured Article: https://medium.com/p/5203750f6485?postPublishedType=initial
+- Featured Article: https://medium.com/p/070766808c17?postPublishedType=initial
 
 ## Professional Focus
 - Backend Engineering
