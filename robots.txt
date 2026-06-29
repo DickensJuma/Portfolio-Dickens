@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Allow major AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://dickensjuma.github.io/Portfolio-Dickens/sitemap.xml

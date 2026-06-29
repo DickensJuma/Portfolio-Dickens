@@ -1,0 +1,21 @@
+# Dickens Alphonce Juma - Portfolio and Resume
+
+This site belongs to Dickens Alphonce Juma, a Tech Lead and Senior Backend Engineer focused on distributed systems, fintech, messaging platforms, and AI.
+
+## Primary Pages
+- Portfolio: https://dickensjuma.github.io/Portfolio-Dickens/
+- Resume (Designed): https://dickensjuma.github.io/Portfolio-Dickens/resume.html
+- Resume (ATS): https://dickensjuma.github.io/Portfolio-Dickens/resume-ats.html
+
+## Professional Focus
+- Backend Engineering
+- Distributed Systems
+- Event-Driven Architecture
+- FinTech and Payment Infrastructure
+- Messaging Integrations
+- AI and RAG Systems
+
+## Contact
+- Email: dickensjuma13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dickens-juma/
+- GitHub: https://github.com/DickensJuma

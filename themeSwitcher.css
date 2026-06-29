@@ -1,4 +1,4 @@
-.theme-switch{
+.theme-switch {
   position: fixed;
   top: 20px;
   right: 0;
@@ -13,11 +13,11 @@
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
-.theme-switch.open{
+.theme-switch.open {
   -webkit-transform: translateX(0%);
   transform: translateX(0%);
 }
-.theme-switch h5{
+.theme-switch h5 {
   font-size: 16px;
   margin-top: 0;
   color: #302e4d;
@@ -25,17 +25,17 @@
   padding-bottom: 5px;
   border-bottom: 1px solid #e8dfec;
 }
-.theme-switch ul{
+.theme-switch ul {
   margin: 0;
   list-style-type: none;
   padding: 0;
   display: block;
   margin-bottom: 5px;
 }
-.theme-switch ul li{
+.theme-switch ul li {
   display: inline-block;
 }
-.theme-switch ul li a{
+.theme-switch ul li a {
   width: 30px;
   height: 30px;
   display: block;
@@ -44,7 +44,22 @@
   text-decoration: none;
   margin-right: 2px;
 }
-.theme-switch .toggle-theme-switcher{
+.theme-switch ul li a.theme-color-red {
+  background-color: #e40017;
+}
+.theme-switch ul li a.theme-color-blue {
+  background-color: #0779e4;
+}
+.theme-switch ul li a.theme-color-green {
+  background-color: #57d131;
+}
+.theme-switch ul li a.theme-color-purple {
+  background-color: #a100ff;
+}
+.theme-switch ul li a.theme-color-yellow {
+  background-color: #ffcc00;
+}
+.theme-switch .toggle-theme-switcher {
   position: absolute;
   height: 45px;
   width: 45px;
@@ -57,7 +72,7 @@
   cursor: pointer;
   border-radius: 5px 0 0 5px;
 }
-.theme-switch .toggle-theme-switcher .fa{
+.theme-switch .toggle-theme-switcher .fa {
   font-size: 20px;
   line-height: 43px;
 }
